@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">Evaluation</string>
+    <string name="app_name">Photos Video App</string>
+    
+    <string name="search_hint">Search photos, videos, artists</string>
+    <string name="header">Discover the worlds best photos videos </string>
+    <string name="photo">Photo</string>
+    <string name="video">Video</string>
+    <string name="favorites">Favorites</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="network_error">Network Failure</string>
+    <string name="parse_error">Parsing Error</string>
+    <string name="saved_successfully">Item Saved Successfully</string>
+    <string name="delete_successfull">Item SuccessFully Deleted</string>
+    <string name="undo">Undo</string>
+    <string name="banner_text">Discover the world’s \n best photos &amp; videos</string>
+    <string name="sub_heading">Best memories online</string>
 </resources>
